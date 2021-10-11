@@ -1,4 +1,4 @@
-baseurl = "https://tarobass.github.io/tales/"
+baseurl = "https://tarobass.github.io/tales/portfolio/"
 title = "追加課題３"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
